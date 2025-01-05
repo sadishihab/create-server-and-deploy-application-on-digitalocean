@@ -1,6 +1,10 @@
-# Create server and deploy application on DigitalOcean
+# Project
 
-- Technologies used: DigitalOcean, Linux, Java, Gradle
+- Create server and deploy application on DigitalOcean
+
+## Technologies used:
+
+- DigitalOcean, Linux, Java, Gradle
 
 ## Project Description:
 
