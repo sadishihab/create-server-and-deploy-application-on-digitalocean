@@ -1,6 +1,4 @@
-# Project
-
-- Create server and deploy application on DigitalOcean
+# Create server and deploy application on DigitalOcean
 
 ## Technologies used:
 
